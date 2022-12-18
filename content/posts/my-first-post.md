@@ -9,3 +9,12 @@ draft: false
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
+
+I've added some content,
+
+```python
+def factorial(n):
+    if n == 1:
+        return 1
+    return n * factorial(n-1)
+```
