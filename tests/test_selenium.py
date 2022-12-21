@@ -24,8 +24,6 @@ class PythonOrgSearch(unittest.TestCase):
                 print("link does not yet exist")
                 return 1
 
-
-
     def tearDown(self):
         self.driver.close()
 
