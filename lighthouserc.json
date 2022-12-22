@@ -2,7 +2,9 @@
     "ci": {
         "collect": {
             "url": [
-                "http://localhost:1313/"
+                "http://localhost:1313/",
+                "http://localhost:1313/blog/",
+                "http://localhost:1313/home/"
             ],
             "numberOfRuns": 2,
             "staticDistDir": "./public"
