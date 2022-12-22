@@ -17,8 +17,8 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build site
-        run: hugo --minify
+      # - name: Build site
+      #   run: hugo --minify
 
       - name: Use Node.js 15.x
         uses: actions/setup-node@v2
