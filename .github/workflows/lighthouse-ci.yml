@@ -1,21 +1,30 @@
-name: Build project and run Lighthouse CI
+# .github/workflow/lighthouse-ci.yaml
+name: Lighthouse
 on: [push]
 jobs:
-  lhci:
-    name: Lighthouse CI
+  ci:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Use Node.js 10.x
-        uses: actions/setup-node@v1
+      - name: Checkout code
+        uses: actions/checkout@v2
         with:
-          node-version: 10.x
-      - name: npm install
+          token: ${{ secrets.PAT }}
+          submodules: recursive
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.76.5"
+          extended: true
+
+      - name: Build site
+        run: hugo
+
+      - name: Use Node.js 15.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: 15.x
+      - name: Run the Lighthouse CI
         run: |
-          npm install
-      - name: run Lighthouse CI
-        run: |
-          npm install -g @lhci/cli@0.3.x
-          lhci autorun --upload.target=temporary-public-storage || echo "LHCI failed!"
-        env:
-          LHCI_GITHUB_APP_TOKEN: ${{ secrets.LHCI_GITHUB_APP_TOKEN }}
+          npm install -g @lhci/cli@0.6.x
+          lhci autorun
