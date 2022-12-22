@@ -5,11 +5,11 @@ jobs:
   ci:
     runs-on: ubuntu-latest
     steps:
-      # - name: Checkout code
-      #   uses: actions/checkout@v2
-      #   with:
-      #     token: ${{ secrets.LHCI_GITHUB_APP_TOKEN }}
-      #     submodules: recursive
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          LHCI_GITHUB_APP_TOKEN: ${{ secrets.LHCI_GITHUB_APP_TOKEN }}
+          submodules: recursive
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
