@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Quinna&#39;s Website</title>
+    <link>https://quinnah.github.io/blog/</link>
+    <description>Recent content in Blogs on Quinna&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Dec 2022 11:22:17 -0500</lastBuildDate><atom:link href="https://quinnah.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Blog Post</title>
+      <link>https://quinnah.github.io/blog/second-post/</link>
+      <pubDate>Sun, 18 Dec 2022 11:22:17 -0500</pubDate>
+      
+      <guid>https://quinnah.github.io/blog/second-post/</guid>
+      <description>Here&amp;rsquo;s some things I learned in EECS 201: Thing Useful? Git Yes Shell Yes Regex Maybe? </description>
+    </item>
+    
+    <item>
+      <title>My Third Blog Post</title>
+      <link>https://quinnah.github.io/blog/third-post/</link>
+      <pubDate>Sun, 18 Dec 2022 11:22:17 -0500</pubDate>
+      
+      <guid>https://quinnah.github.io/blog/third-post/</guid>
+      <description>Here&amp;rsquo;s some things I learned in EECS 201: Thing Useful? Git Yes Shell Yes Regex Maybe? </description>
+    </item>
+    
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://quinnah.github.io/blog/my-first-post/</link>
+      <pubDate>Sun, 18 Dec 2022 10:58:53 -0500</pubDate>
+      
+      <guid>https://quinnah.github.io/blog/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+I&amp;rsquo;ve added some content,
+def factorial(n): if n == 1: return 1 return n * factorial(n-1) </description>
+    </item>
+    
+  </channel>
+</rss>

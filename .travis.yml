@@ -1,11 +1,10 @@
-language: node_js # Node 10 LTS or later required  
-node_js:  
-- '10'  
-addons:  
-chrome: stable # make Chrome available  
-before_install:  
-- npm install -g @lhci/cli@0.3.x # install LHCI (Lighthouse CI)  
-script:  
-- hugo server # command in package.json to build your site  
-after_success:  
-- lhci autorun # run lighthouse CI against your static site
+language: node_js
+node_js: v16
+addons:
+  chrome: stable
+before_install:
+  - npm install -g @lhci/cli@0.8.x
+script:
+  - hugo -d build
+  - hugo server
+  - lhci autorun
