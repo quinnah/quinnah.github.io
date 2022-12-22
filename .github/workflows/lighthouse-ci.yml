@@ -18,7 +18,7 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo
+        run: hugo server
 
       - name: Use Node.js 15.x
         uses: actions/setup-node@v2
