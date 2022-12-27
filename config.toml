@@ -6,14 +6,7 @@ theme = "PaperMod"
 [params]
   color = 'wheat'                 # linen, wheat, gray, light
   mainSections = ["home"]
-
-  # header social icons
-  # twitter = 'YOUR_TWITTER_ID'     # twitter.com/YOUR_TWITTER_ID
-  github = 'quinnah'       # github.com/quinnah
-  linkedin = 'quinnahalim' # linkedin.com/quinnahalim
-  rss = true                      # show rss icon with link
-
-  # home page profile
-  # avatar = 'GRAVATAR_EMAIL'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
-  # name = 'YOUR_NAME'
-  # bio = 'YOUR_BIO'
+  socialIcons = [
+  { name = 'github', url = 'github.com/quinnah' },
+  { name = 'email', url = 'quinnah@umich.edu' },
+]

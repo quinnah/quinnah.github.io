@@ -1,6 +1,7 @@
 ---
 title: "My Winter '23 Semester"
 date: 2022-12-25T11:22:17-05:00
+weight: 1
 draft: false
 ---
 
@@ -44,7 +45,7 @@ Checklist:
 
 Goals:
 - [ ] Secure a software engineering internship for Summer 2023 by end-of-March
-- [ ] Keep my head & mindset straight. Go into each interview feeling prepared, confident, and seeing it as a chance to measure my progress and show how far I've come - not with the mindset of 'i'm going to fail i should've done more leetcode ahh'. It's just a process - not anything personal :)
+- [ ] Keep my head & mindset straight. Go into each interview feeling prepared, confident, and seeing it as a chance to measure my progress and show how far I've come
 
 
 Checklist:
