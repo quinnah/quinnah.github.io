@@ -21,4 +21,4 @@ Beyond that, I also want to stay as a software engineer for at least the first t
 In the next 10-20 years I hope to:
 - Do research at the [MIT Media Lab](https://www.media.mit.edu/) - a place I’ve followed since high school for its interdisciplinary research, various labs doing cutting-edge work at the intersection of technology, people, and the physical world.
 - Found a startup/ join an early-stage startup / lead a startup in some capacity - I’ve had an inkling I’ve wanted to do this for a while, but it was cemented most recently by working at Nuro, and from TEDx (planning, promoting, organizing TEDxUofM felt very much like a startup in some ways, and was the most meaningful activity I did purely out of interest)
-- Give a talk at business school & teach a class/seminar, and on the big TED stage - I used to watch GSB lectures for fun, and I’ve always loved TED Talks. This is something I’d love to do later.
+- Give a talk at business school & teach a class/seminar - I used to watch GSB lectures for fun, and I’ve always loved TED Talks. This is something I’d love to do later.

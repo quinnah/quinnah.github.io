@@ -4,9 +4,12 @@ title = "Quinna's Website"
 theme = "PaperMod"
 
 [params]
-  color = 'wheat'                 # linen, wheat, gray, light
-  mainSections = ["home"]
+  color = 'wheat'     
+  mainSections = ["singles"]            # linen, wheat, gray, light
   socialIcons = [
   { name = 'github', url = 'github.com/quinnah' },
   { name = 'email', url = 'quinnah@umich.edu' },
 ]
+
+[permalinks]
+  singles = "/:title/"
