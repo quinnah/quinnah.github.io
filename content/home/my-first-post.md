@@ -3,7 +3,7 @@ title: "About"
 date: 2022-12-18T10:58:53-05:00
 weight: 1
 draft: false
-type: singles
+type: home
 layout: aboutpage
 ---
 

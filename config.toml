@@ -5,11 +5,11 @@ theme = "PaperMod"
 
 [params]
   color = 'wheat'     
-  mainSections = ["singles"]            # linen, wheat, gray, light
+  mainSections = ["home"]            # linen, wheat, gray, light
   socialIcons = [
   { name = 'github', url = 'github.com/quinnah' },
   { name = 'email', url = 'quinnah@umich.edu' },
 ]
 
 [permalinks]
-  singles = "/:title/"
+  home = "/:title/"
