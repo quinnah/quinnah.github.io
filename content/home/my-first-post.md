@@ -9,10 +9,10 @@ layout: aboutpage
 
 ## Introduction
 
-Hi, I'm **Quinna**. I'm currently a CS and math student at University of Michigan.
+Hi, I'm **Quinna**. I'm currently a CS student at University of Michigan. I'm especially interested in AI/ML.
 
-In past lives I've worked at [MongoDB](https://www.mongodb.com/) on the Database Experience team (Rust Driver, [VSCode Extension](https://www.mongodb.com/products/vs-code)) and [Nuro.ai](https://www.nuro.ai/) on the Behavior team. Currently, I'm an Instructional Aide for the University of Michigan College of Engineering for EECS 497 (a senior human-centered software development capstone course).
+In past lives I've worked at [MongoDB](https://www.mongodb.com/) on the developer tools team and[Nuro.ai](https://www.nuro.ai/) on the autonomy: behavior team. 
 
- My current professional goals are to learn as much as I can about computer science (algorithms, distributed systems, programming languages, databases) and apply my skills as a software engineer. Interested in CS, finance, math, startups, psychology.
+On campus, I've worked as an Instructional Aide for a human-centered software development senior capstone, organized a 1300 person [conference](https://www.tedxuofm.com/2022) and conducted research.
 
-In my free time, I enjoy reading, writing, strength training, travel, and time with friends. I'm also a beginner Go & poker player. Feel free to poke around my [blog](https://quinnah.github.io/blog/) & website for more adventures!
+In my free time, I enjoy reading, writing, NYT crosswords, strength training, travel, and time with friends. Feel free to poke around my [blog](https://quinnah.github.io/blog/) & website for more adventures!
