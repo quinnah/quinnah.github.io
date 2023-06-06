@@ -9,9 +9,9 @@ layout: aboutpage
 
 ## Introduction
 
-Hi, I'm **Quinna**. I'm currently a CS student at University of Michigan. I'm especially interested in AI/ML.
+Hi, I'm **Quinna**. I'm currently a CS student at University of Michigan. I'm especially interested in AI/ML and its applications.
 
-In past lives I've worked at [MongoDB](https://www.mongodb.com/) on the developer tools team and[Nuro.ai](https://www.nuro.ai/) on the autonomy: behavior team. 
+In past lives I've worked at [MongoDB](https://www.mongodb.com/) on the developer tools team and [Nuro.ai](https://www.nuro.ai/) on the autonomy: behavior team. 
 
 On campus, I've worked as an Instructional Aide for a human-centered software development senior capstone, organized a 1300 person [conference](https://www.tedxuofm.com/2022) and conducted research.
 
