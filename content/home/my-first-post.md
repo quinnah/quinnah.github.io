@@ -9,7 +9,7 @@ layout: aboutpage
 
 ## Introduction
 
-Hi, I'm **Quinna**. I'm a CS student at University of Michigan and software engineer. I'm especially interested in AI/ML and its applications in augmenting human cognition and creativity.
+Hi, I'm **Quinna**. I'm a CS student at University of Michigan and software engineer. I'm especially interested in AI and its applications in augmenting human cognition and ability.
 
 In past lives I've worked at [Nuro.ai](https://www.nuro.ai/) on the autonomy: behavior team and [MongoDB](https://www.mongodb.com/) on the developer tools team. This summer, I'm working as a backend/ML software engineer intern at a seed-stage [YC startup](https://www.industrialnext.ai/en) revolutionizing industrial robotics.
 
