@@ -9,7 +9,7 @@ layout: aboutpage
 
 ## Introduction
 
-Hi, I'm **Quinna**. I'm a computer science student at University of Michigan. My current goal is to apply my curiosity, problem-solving, and lifelong interest in STEM towards growing as a software engineer. I'm especially interested in web systems and autonomous robotics.
+Hi, I'm **Quinna**. I'm a computer science student at University of Michigan. My current goal is to apply my curiosity, problem-solving, and lifelong interest in STEM towards growing my skills as a software engineer. I'm especially interested in generative AI and autonomous robotics.
 
 In past lives I've worked at [Nuro.ai](https://www.nuro.ai/) on the autonomy: behavior team and [MongoDB](https://www.mongodb.com/) on the developer tools team. This summer, I'm working as a backend + ML software engineer intern at a seed-stage [YCombinator startup](https://www.industrialnext.ai/en) revolutionizing industrial robotics.
 
