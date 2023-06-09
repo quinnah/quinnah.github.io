@@ -9,9 +9,9 @@ layout: aboutpage
 
 ## Introduction
 
-Hi, I'm **Quinna**. I'm a computer science student at University of Michigan and software engineer. I'm especially interested in AI/ML. My long-term vision is to apply my curiosity, problem-solving, creativity, and life-long interest in STEM towards breakthrough technology such as autonomous robotics.
+Hi, I'm **Quinna**. I'm a computer science student at University of Michigan. My current goal is to apply my curiosity, problem-solving, and lifelong interest in STEM towards growing as a software engineer. I'm especially interested in working on large-scale web systems and autonomous robotics.
 
-In past lives I've worked at [Nuro.ai](https://www.nuro.ai/) on the autonomy: behavior team and [MongoDB](https://www.mongodb.com/) on the developer tools team. This summer, I'm working as a backend/ML software engineer intern at a seed-stage [YCombinator startup](https://www.industrialnext.ai/en) revolutionizing industrial robotics.
+In past lives I've worked at [Nuro.ai](https://www.nuro.ai/) on the autonomy: behavior team and [MongoDB](https://www.mongodb.com/) on the developer tools team. This summer, I'm working as a backend + ML software engineer intern at a seed-stage [YCombinator startup](https://www.industrialnext.ai/en) revolutionizing industrial robotics.
 
 On campus, I've worked as an Instructional Aide for a senior capstone (Human-Centered Software), led a team of 50+ students to organize a 1300+ attendee TEDx [conference](https://www.tedxuofm.com/2022), and did research in [breast cancer stem cells](https://www.med.umich.edu/wicha-lab/index.html) as part of the Michigan Research and Discovery Scholars program.
 
